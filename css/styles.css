@@ -1,5 +1,14 @@
 /* Your Website Styles */
-
+body{
+	background: blue;
+	margin:2em;
+}
+.col{
+	background: white;
+}
+nav {
+	height:10em;
+}
 
 /* Show Grid */
 .showgrid {
