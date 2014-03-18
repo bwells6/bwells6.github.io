@@ -1,13 +1,22 @@
 /* Your Website Styles */
 body{
-	background: blue;
+
 	margin:2em;
 }
-.col{
-	background: white;
-}
+
+
 nav {
 	height:12em;
+}
+
+section {
+	
+	text-align: center;
+}
+.me	img{
+	margin-left: 2em;
+	border: 3px solid #333;
+
 }
 
 /* Show Grid */
