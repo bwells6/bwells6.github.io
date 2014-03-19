@@ -4,16 +4,29 @@ background: url(../img/subtle_surface.png);
 }
 body{
 	font-family: 'Advent Pro', sans-serif;
-	margin:2em;
+	color:black;
+  letter-spacing:.1em;
+  margin:3em;
 }
 .top {
 text-align: right;
 }
+article .col{
+  background: blue;
+  margin-top:10px;
+ 
+}
+section {
+  
+  text-align: center;
+}
+
 
 footer{
   background: #333;
   color: white;
-   }
+}
+
 footer div img {
 
   background: #555;
@@ -34,27 +47,18 @@ section img{
 	border: 3px solid white;
    }
 
-section {
-	
-	text-align: center;
-}
+
 .me	img{
+  margin-bottom: 2em;
 	margin-left: 4em;
-	margin-top: 3em;
+	margin-top: 2em;
 	border: 3px solid white;
 }
 
 
 
 
-body { 
-   
-  
-  color:black;
-  letter-spacing:.1em;
-  margin:3em;
-  
-  }
+
 
 
 nav {
