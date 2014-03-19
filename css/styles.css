@@ -1,7 +1,13 @@
 /* Your Website Styles */
+html{
+background: url(../img/subtle_surface.png);
+}
 body{
-
+	
 	margin:2em;
+}
+.top {
+text-align: right;
 }
 
 footer{
@@ -24,18 +30,23 @@ footer div img:hover{
   background:white;
 
 }
-
-
+section img{
+	border: 3px solid white;
+   }
 
 section {
 	
 	text-align: center;
 }
 .me	img{
-	margin-left: 2em;
-	border: 3px solid #333;
-
+	margin-left: 4em;
+	margin-top: 3em;
+	border: 3px solid white;
 }
+
+
+
+
 body { 
    
   
@@ -45,10 +56,14 @@ body {
   
   }
 
+
 nav {
-	margin-top: 135px;
+	margin-top: 6em;
+  margin-right:2em;
 	text-align: center;
 	font-size: 1.25em;
+  
+  
   }	
 	
 nav ul {
@@ -56,6 +71,7 @@ nav ul {
   background: gray;
   list-style:none;
   text-align: center;
+  box-shadow: 0 5px 5px rgba(0,0,0,0.3);
   }
 
 nav li { 

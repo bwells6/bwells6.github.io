@@ -81,6 +81,9 @@
             border-left-width:3px;
         	padding:0 3px;
         }
+        section img{
+        display: none;
+        }
         
         
         
@@ -119,7 +122,9 @@
         	padding:0 6px;
         }
         
-        
+           section img{
+        display: none;
+        }
         
         
         .span_1 {
