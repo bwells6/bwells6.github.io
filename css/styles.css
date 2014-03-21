@@ -28,7 +28,9 @@ footer a {
   text-decoration: none;
   color:white;
 }
-
+footer div p {
+  text-align: right;
+}
 footer div{
   height: 60px;
   line-height: 60px;
