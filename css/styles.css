@@ -16,6 +16,10 @@ article .col{
   margin-top:10px;
  
 }
+article p a {
+  text-decoration: none;
+  color;green;
+}
 section {
   
   text-align: center;
