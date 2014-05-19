@@ -2,7 +2,8 @@
 .searchMeme-container
 {
     width: 450px;
-    
+    background: blue;
+
 }
 .searchMeme-container div
 {
